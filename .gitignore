@@ -6,7 +6,10 @@
 .pnp.js
 
 # Environment variables
+.env
 .env.local
+.env.production
+.env.staging
 
 # Compiled Sanity Studio
 /dist
